@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plan>
+  <id>4</id>
+  <lang></lang>
+  <title>Quảng cáo top</title>
+  <form>sequential</form>
+  <width>840</width>
+  <height>88</height>
+  <banners>
+    <banners_item>
+      <id>3</id>
+      <title>Banner top</title>
+      <clid>1</clid>
+      <file_name>banner_1.gif</file_name>
+      <imageforswf>banner.gif</imageforswf>
+      <file_ext>gif</file_ext>
+      <file_mime>image/gif</file_mime>
+      <file_width>840</file_width>
+      <file_height>88</file_height>
+      <file_alt></file_alt>
+      <file_click>/uploads/banner.gif</file_click>
+      <target>_top</target>
+      <bannerhtml></bannerhtml>
+      <publ_time>1715759969</publ_time>
+      <exp_time>0</exp_time>
+    </banners_item>
+  </banners>
+</plan>
